@@ -1,2 +1,4 @@
 # Gerenciamento_Petshop
- Projeto de gerenciamento de petshops
+ Sistema de gerenciamento de petshops
+
+ Utilizando PHP, javascript, html, css e bootstrap
